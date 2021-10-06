@@ -1,5 +1,5 @@
 # terraform-linuxdiagnostic-agent-module
-Module to deploy Linux Diagnostic Module from terraform
+Module to deploy Azure Linux Diagnostic Module from terraform
 
 # Usage
 ```
